@@ -65,7 +65,11 @@ This ensures better performance, tighter security, and no interference with unre
 ## 📁 Project Structure
 
 copy-extension/
+
 ├── manifest.json
+
 ├── background.js
+
 ├── content.js
+
 ├── (optional) toast styling in content.js
