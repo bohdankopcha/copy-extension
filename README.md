@@ -10,12 +10,12 @@ This Chrome extension allows the user to quickly copy the text content of a spec
 
 - **🔗 Hotkey Activation**
 
-  - Press a customizable keyboard shortcut (e.g. `Ctrl+Cmd+C` on macOS)
+  - Press a customizable keyboard shortcut (e.g. `Ctrl+Shift+C` on macOS)
   - Configure it via `chrome://extensions/shortcuts`
 
 - **📄 DOM Element Capture**
 
-  - Extracts content from a predefined CSS selector (e.g. `.js-issue-title`)
+  - Extracts content from a predefined CSS selector (e.g. `[data-testid="issue-title"]`)
   - Runs only on GitHub pages
 
 - **🌍 URL Attachment**
